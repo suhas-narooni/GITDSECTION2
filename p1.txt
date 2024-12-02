@@ -1,5 +1,11 @@
 Suhas Narooni
 Acharya College
+<<<<<<< Updated upstream
 Bengaluru
 Karnataka
 
+=======
+I am a Disco dancer
+suhas HJ
+Tejas Raijadhav
+>>>>>>> Stashed changes
